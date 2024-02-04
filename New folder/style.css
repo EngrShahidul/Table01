@@ -1,0 +1,128 @@
+/* h1{
+    text-align: center;
+    font-family: arial;
+    background-color: aqua;
+    font-size: 50px;
+    color: #ffffff;
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: arial;
+} */
+/* table,td{
+    border: 1px solid;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+input[type="text"], input[type="email"],input[type="date"] {
+    padding: 10px 90px;
+    padding-left: 10px;
+    margin-left: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 0px;
+}
+input[type="text"], input[type="email"],input[type="date"],select:focus{
+    outline-color: aqua;
+}
+
+input[type="date"] {
+    padding-right: 145px;
+}
+
+input[type="radio"] {
+    padding: 0px;
+    margin-left: 15px;
+}
+
+select {
+    padding: 10px 90px;
+    margin-left: 14px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+input[type="submit"] {
+    background: #00ff897a;
+    padding: 14px 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: #fff;
+    font-size: 17px;
+    font-family: arial;
+    transition: .3s;
+    cursor: pointer;
+}
+.wrp {
+    width: 55%;
+    margin: auto;
+    background: #00e7ffba;
+    padding-bottom: 103px;
+    padding-top: 133px;
+    padding-left: 100px;
+}
+.raaper {
+    background: #025168e6;
+    height: 953px;
+}
+
+td {
+    font-size: 17px;
+    font-family: arial;
+}
+tr.ss td {
+    text-align: center;
+}
+input[type="submit"]:hover {
+    background: #00ff8900;
+    border: 1px solid #00ff89;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.my-id {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(#007aff85, #0a0e1e, black);
+}
+.wrp-box{
+    width: 550px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 100px;
+    background-image: radial-gradient(circle, #0098e3f5, black, #006880);
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 11px 15px;
+    border-top-style: dashed;
+    border-left-style: double;
+    border-bottom-style: solid;
+    border-right-style: dotted;
+    border-color: #ffff;
+    border-width: 5px 7px 9px 11px;
+}
+
+.wrp-box p {
+    color: #fff;
+    font-size: 20px;
+    font-family: arial;
+} */
+
+.img-1{
+    margin: 50px;
+    border-radius:10px;
+}
